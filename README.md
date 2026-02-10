@@ -1,6 +1,7 @@
 # Customer-Retention-Analytics
 
 Customer Retention & Support Intelligence Dashboard
+
 📖 The Project Story
 
 In a busy support environment, the biggest risk isn't just a high volume of tickets—it's losing your most valuable customers because their issues got buried in a "first-come, first-served" queue.
