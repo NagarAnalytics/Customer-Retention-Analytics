@@ -30,4 +30,6 @@ I built this project to turn a reactive support team into a proactive retention 
 
 • Created a system that flags $26k+ in monthly revenue for immediate review.
 
+![Project Dashboard](images/CustomerRetentionAnalyticsBI.pdf)
+
 
