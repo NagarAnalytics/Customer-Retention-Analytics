@@ -1,4 +1,4 @@
-👥🔄 Customer Retention & Support Intelligence Dashboard
+# 👥🔄 Customer Retention & Support Intelligence Dashboard
 
 📖 The Project Story
 
