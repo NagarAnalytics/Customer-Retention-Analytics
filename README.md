@@ -1,12 +1,19 @@
 # 👥🔄 Customer Retention & Support Intelligence Dashboard
 
-📖 The Project Story
+## 📖 The Project Story
 
 In a busy support environment, the biggest risk isn't just a high volume of tickets—it's losing your most valuable customers because their issues got buried in a "first-come, first-served" queue.
 
 I built this project to turn a reactive support team into a proactive retention engine.
 
-🛠️ What I Built
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Excel / Power Query | Data cleaning |
+| Power BI | Interactive dashboard |
+
+## 🛠️ What I Built
 
 1. A Custom Risk Engine (Excel): I didn't just list data; I engineered a Priority Score (0-100). This logic automatically weighs a customer's financial value (Tier) against the severity of their issue (Churn Risk).
 
@@ -14,7 +21,7 @@ I built this project to turn a reactive support team into a proactive retention 
 
 3. The "Top 5" Action List: Instead of making managers dig through charts, I created a filtered "Urgent Action" table that identifies exactly which 5 customers need a phone call right now to save the account.
 
-🧠 Problems I Solved
+## 🧠 Problems I Solved
 
 • The "Version" Hurdle: Navigated Excel 2016 compatibility by using nested logic when modern functions weren't available.
 
@@ -22,7 +29,7 @@ I built this project to turn a reactive support team into a proactive retention 
 
 • Data Integrity: Cleaned "ghost rows" and handled string-matching errors to ensure the Priority Score was 100% accurate.
 
-📈 Business Impact
+## 📈 Business Impact
 
 • Identified that Billing Issues are the primary bottleneck, averaging 50+ hours for resolution.
 
